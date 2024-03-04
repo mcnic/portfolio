@@ -1,5 +1,7 @@
 # portfolio
 
+## Main stack. Only NDA projects
+
 there are collect my non-NDA projects for present my work expirience
 
 - [GraphQl](https://github.com/mcnic/rs-graphql) typescript, Node, GraphQL,
@@ -9,8 +11,8 @@ there are collect my non-NDA projects for present my work expirience
 - [CRUD](https://github.com/mcnic/rs-crud-api) - Typescript, Node
 - [Node testing ](https://github.com/mcnic/rs-nodejs-testing) - Typescript,
   Node, Jest
-- [Node file operations] (https://github.com/mcnic/rs-file-manager) -
-  TYpescript, Node, i/o file system
+- [Node file operations](https://github.com/mcnic/rs-file-manager) - TYpescript,
+  Node, i/o file system
 - [Node basic](https://github.com/mcnic/rs-nodejs-basics) - Typescript, Node,
   Async, Stream, Pipe, Threads, Worker, i/o async file operations, Crypto,
   Archives,
